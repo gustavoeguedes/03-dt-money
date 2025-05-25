@@ -1,3 +1,9 @@
+import { Header } from "../../components/Header";
+
 export function Transactions() {
-    return()
+    return(
+        <div>
+            <Header />
+        </div>
+    )
 }
