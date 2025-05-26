@@ -1,20 +1,36 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Desenvolvimeto de site",
-            "type": "income",
-            "category": "Venda",
-            "price": 14000,
-            "createdAt": "2025-05-25T20:07:44.051Z"
-        },
-        {
-            "id": 2,
-            "description": "Hamburgues",
-            "type": "outcome",
-            "category": "Alimentação",
-            "price": 50,
-            "createdAt": "2025-05-25T20:07:44.051Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimeto de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2025-05-25T20:07:44.051Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburgues",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2025-05-25T20:07:44.051Z"
+    },
+    {
+      "description": "Ganhei na bet do vasco",
+      "price": 10,
+      "category": "Apostas esportivas",
+      "type": "income",
+      "createdAt": "2025-05-26T00:04:24.841Z",
+      "id": 3
+    },
+    {
+      "description": "batatinhas",
+      "price": 35,
+      "category": "alimento",
+      "type": "outcome",
+      "createdAt": "2025-05-26T00:23:31.823Z",
+      "id": 4
+    }
+  ]
 }
